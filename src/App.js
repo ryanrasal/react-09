@@ -1,5 +1,5 @@
 import React from 'react';
-import Contactlist from './components/ContactList.js';
+import Contactlist from './components/ContactList.jsx';
 import './style.css';
 
 export default function App() {
